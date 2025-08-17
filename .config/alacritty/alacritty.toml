@@ -1,0 +1,23 @@
+[window]
+opacity = 1
+padding = {x = 0, y = 0}
+dynamic_padding = false
+
+[font]
+size = 18
+
+[font.normal]
+# family = "0xProto Nerd Font Mono"
+# family = "EnvyCodeR Nerd Font Mono"
+# family = "Brass Mono"
+# family = "JetBrainsMono Nerd Font"
+# family = "BigBlueTerm437 Nerd Font Mono"
+family = "IosevkaTermNerdFontMono"
+
+style = "Regular"
+
+[env]
+TERM = "alacritty"
+  
+# [cursor]
+# style = {shape = "Underline", blinking = "On"}
